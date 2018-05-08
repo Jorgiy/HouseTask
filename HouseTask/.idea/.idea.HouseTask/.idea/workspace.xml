@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="173fd354-8b4b-4a71-998d-4d52436db839" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.HouseTask/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/HouseTask/Device.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/HouseTask/DeviceStateEnum.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/HouseTask/House.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/HouseTask/IReportMaker.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/HouseTask/IReportable.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/HouseTask/Room.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/HouseTask/State.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/HouseTask/Window.cs" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HouseTask/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.HouseTask/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/HouseTask/bin/Debug/netcoreapp2.0/HouseTask.deps.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/HouseTask/bin/Debug/netcoreapp2.0/HouseTask.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/HouseTask/bin/Debug/netcoreapp2.0/HouseTask.pdb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/HouseTask/bin/Debug/netcoreapp2.0/HouseTask.runtimeconfig.dev.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/HouseTask/bin/Debug/netcoreapp2.0/HouseTask.runtimeconfig.json" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -65,8 +62,8 @@
       <file leaf-file-name="ConsumptionReportMaker.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HouseTask/ConsumptionReportMaker.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="49" column="59" lean-forward="false" selection-start-line="49" selection-start-column="59" selection-end-line="49" selection-end-column="59" />
+            <state relative-caret-position="280">
+              <caret line="36" column="78" lean-forward="false" selection-start-line="36" selection-start-column="78" selection-end-line="36" selection-end-column="78" />
               <folding>
                 <marker date="1525811858888" expanded="false" signature="6:66" ph="..." />
                 <marker date="1525811858888" expanded="true" signature="87:2571" ph="{...}" />
@@ -335,12 +332,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525715623338</updated>
-      <workItem from="1525715626556" duration="23798000" />
+      <workItem from="1525715626556" duration="24333000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23798000" />
+    <option name="totallyTimeSpent" value="24333000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -358,8 +355,8 @@
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25349087" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -638,8 +635,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HouseTask/ConsumptionReportMaker.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="49" column="59" lean-forward="false" selection-start-line="49" selection-start-column="59" selection-end-line="49" selection-end-column="59" />
+        <state relative-caret-position="280">
+          <caret line="36" column="78" lean-forward="false" selection-start-line="36" selection-start-column="78" selection-end-line="36" selection-end-column="78" />
           <folding>
             <marker date="1525811858888" expanded="false" signature="6:66" ph="..." />
             <marker date="1525811858888" expanded="true" signature="87:2571" ph="{...}" />
