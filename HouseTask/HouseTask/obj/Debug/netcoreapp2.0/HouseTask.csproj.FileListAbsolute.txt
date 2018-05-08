@@ -1,0 +1,10 @@
+C:\Projects\HouseTask\HouseTask\HouseTask\bin\Debug\netcoreapp2.0\HouseTask.deps.json
+C:\Projects\HouseTask\HouseTask\HouseTask\bin\Debug\netcoreapp2.0\HouseTask.runtimeconfig.json
+C:\Projects\HouseTask\HouseTask\HouseTask\bin\Debug\netcoreapp2.0\HouseTask.runtimeconfig.dev.json
+C:\Projects\HouseTask\HouseTask\HouseTask\bin\Debug\netcoreapp2.0\HouseTask.dll
+C:\Projects\HouseTask\HouseTask\HouseTask\bin\Debug\netcoreapp2.0\HouseTask.pdb
+C:\Projects\HouseTask\HouseTask\HouseTask\obj\Debug\netcoreapp2.0\HouseTask.csproj.CoreCompileInputs.cache
+C:\Projects\HouseTask\HouseTask\HouseTask\obj\Debug\netcoreapp2.0\HouseTask.AssemblyInfoInputs.cache
+C:\Projects\HouseTask\HouseTask\HouseTask\obj\Debug\netcoreapp2.0\HouseTask.AssemblyInfo.cs
+C:\Projects\HouseTask\HouseTask\HouseTask\obj\Debug\netcoreapp2.0\HouseTask.dll
+C:\Projects\HouseTask\HouseTask\HouseTask\obj\Debug\netcoreapp2.0\HouseTask.pdb

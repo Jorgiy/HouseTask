@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="173fd354-8b4b-4a71-998d-4d52436db839" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.HouseTask/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HouseTask/Device.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HouseTask/DeviceStateEnum.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HouseTask/House.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HouseTask/IReportMaker.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HouseTask/IReportable.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HouseTask/Room.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HouseTask/State.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HouseTask/Window.cs" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Window.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HouseTask/Window.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+              <folding>
+                <marker date="1525724389137" expanded="true" signature="19:177" ph="{...}" />
+                <marker date="1525724389137" expanded="true" signature="58:175" ph="{...}" />
+                <marker date="1525724389137" expanded="true" signature="149:169" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DeviceStateEnum.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HouseTask/DeviceStateEnum.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+              <folding>
+                <marker date="1525801257885" expanded="true" signature="19:111" ph="{...}" />
+                <marker date="1525801257885" expanded="true" signature="53:109" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DeviceState.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HouseTask/DeviceState.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+              <folding>
+                <marker date="1525810144674" expanded="true" signature="19:224" ph="{...}" />
+                <marker date="1525810144674" expanded="true" signature="58:222" ph="{...}" />
+                <marker date="1525810144674" expanded="true" signature="116:167" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConsumptionReportMaker.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HouseTask/ConsumptionReportMaker.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="445">
+              <caret line="49" column="59" lean-forward="false" selection-start-line="49" selection-start-column="59" selection-end-line="49" selection-end-column="59" />
+              <folding>
+                <marker date="1525811858888" expanded="false" signature="6:66" ph="..." />
+                <marker date="1525811858888" expanded="true" signature="87:2571" ph="{...}" />
+                <marker date="1525811858888" expanded="true" signature="144:2569" ph="{...}" />
+                <marker date="1525811858888" expanded="true" signature="371:439" ph="{...}" />
+                <marker date="1525811858888" expanded="true" signature="492:2563" ph="{...}" />
+                <marker date="1525811858888" expanded="true" signature="651:796" ph="{...}" />
+                <marker date="1525811858888" expanded="true" signature="856:2442" ph="{...}" />
+                <marker date="1525811858888" expanded="true" signature="928:2428" ph="{...}" />
+                <marker date="1525811858888" expanded="true" signature="1813:2307" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="House.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HouseTask/House.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="49" column="9" lean-forward="false" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+              <folding>
+                <marker date="1525808575070" expanded="true" signature="6:47" ph="..." />
+                <marker date="1525808575070" expanded="true" signature="68:2308" ph="{...}" />
+                <marker date="1525808575070" expanded="true" signature="93:2306" ph="{...}" />
+                <marker date="1525808575070" expanded="true" signature="408:1679" ph="{...}" />
+                <marker date="1525808575070" expanded="true" signature="560:1669" ph="{...}" />
+                <marker date="1525808575070" expanded="true" signature="640:1655" ph="{...}" />
+                <marker date="1525808575070" expanded="true" signature="729:1637" ph="{...}" />
+                <marker date="1525808575070" expanded="true" signature="808:1363" ph="{...}" />
+                <marker date="1525808575070" expanded="true" signature="1080:1337" ph="{...}" />
+                <marker date="1525808575070" expanded="true" signature="1392:1615" ph="{...}" />
+                <marker date="1525808575070" expanded="true" signature="1774:1828" ph="{...}" />
+                <marker date="1525808575070" expanded="true" signature="1927:2300" ph="{...}" />
+                <marker date="1525808575070" expanded="true" signature="1993:2182" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HouseTask/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="42" column="12" lean-forward="false" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+              <folding>
+                <marker date="1525810231986" expanded="true" signature="6:66" ph="..." />
+                <marker date="1525810231986" expanded="true" signature="87:1813" ph="{...}" />
+                <marker date="1525810231986" expanded="true" signature="107:1811" ph="{...}" />
+                <marker date="1525810231986" expanded="true" signature="153:1805" ph="{...}" />
+                <marker date="1525810231986" expanded="true" signature="703:895" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SourceState.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HouseTask/SourceState.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+              <folding>
+                <marker date="1525810093887" expanded="true" signature="19:224" ph="{...}" />
+                <marker date="1525810093887" expanded="true" signature="58:222" ph="{...}" />
+                <marker date="1525810093887" expanded="true" signature="116:167" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Source.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HouseTask/Source.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="67" lean-forward="false" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
+              <folding>
+                <marker date="1525810105504" expanded="true" signature="34:727" ph="{...}" />
+                <marker date="1525810105504" expanded="true" signature="95:725" ph="{...}" />
+                <marker date="1525810105504" expanded="true" signature="300:357" ph="{...}" />
+                <marker date="1525810105504" expanded="true" signature="463:591" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Device.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HouseTask/Device.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="76" lean-forward="false" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
+              <folding>
+                <marker date="1525810150586" expanded="true" signature="34:1367" ph="{...}" />
+                <marker date="1525810150586" expanded="true" signature="108:1365" ph="{...}" />
+                <marker date="1525810150586" expanded="true" signature="350:612" ph="{...}" />
+                <marker date="1525810150586" expanded="true" signature="671:930" ph="{...}" />
+                <marker date="1525810150586" expanded="true" signature="773:874" ph="{...}" />
+                <marker date="1525810150586" expanded="true" signature="1158:1286" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Room.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HouseTask/Room.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="521">
+              <caret line="39" column="20" lean-forward="false" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+              <folding>
+                <marker date="1525808444159" expanded="true" signature="54:1086" ph="{...}" />
+                <marker date="1525808444159" expanded="true" signature="91:1084" ph="{...}" />
+                <marker date="1525808444159" expanded="true" signature="435:533" ph="{...}" />
+                <marker date="1525808444159" expanded="true" signature="590:649" ph="{...}" />
+                <marker date="1525808444159" expanded="true" signature="711:773" ph="{...}" />
+                <marker date="1525808444159" expanded="true" signature="823:876" ph="{...}" />
+                <marker date="1525808444159" expanded="true" signature="931:987" ph="{...}" />
+                <marker date="1525808444159" expanded="true" signature="1029:1078" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/HouseTask/House.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HouseTask/ConsumptionReportMaker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HouseTask/IReportMaker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HouseTask/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HouseTask/Source.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HouseTask/Window.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HouseTask/IReportable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HouseTask/IChangeStateNotifier.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HouseTask/Room.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HouseTask/IActionable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HouseTask/Device.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HouseTask/SourceType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HouseTask/SourceState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HouseTask/DeviceState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HouseTask/SourceStateEnum.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HouseTask/DeviceStateEnum.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HouseTask/Stationare.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HouseTask/State.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/HouseTask/Stationare.cs" />
+        <option value="$PROJECT_DIR$/HouseTask/SourceType.cs" />
+        <option value="$PROJECT_DIR$/HouseTask/IActionable.cs" />
+        <option value="$PROJECT_DIR$/HouseTask/Window.cs" />
+        <option value="$PROJECT_DIR$/HouseTask/IReportMaker.cs" />
+        <option value="$PROJECT_DIR$/HouseTask/IConsumptionReportMaker.cs" />
+        <option value="$PROJECT_DIR$/HouseTask/State.cs" />
+        <option value="$PROJECT_DIR$/HouseTask/DeviceStateEnum.cs" />
+        <option value="$PROJECT_DIR$/HouseTask/SourceStateEnum.cs" />
+        <option value="$PROJECT_DIR$/HouseTask/IReportable.cs" />
+        <option value="$PROJECT_DIR$/HouseTask/IChangeStateNotifier.cs" />
+        <option value="$PROJECT_DIR$/HouseTask/Room.cs" />
+        <option value="$PROJECT_DIR$/HouseTask/House.cs" />
+        <option value="$PROJECT_DIR$/HouseTask/SourceState.cs" />
+        <option value="$PROJECT_DIR$/HouseTask/DeviceState.cs" />
+        <option value="$PROJECT_DIR$/HouseTask/Device.cs" />
+        <option value="$PROJECT_DIR$/HouseTask/Program.cs" />
+        <option value="$PROJECT_DIR$/HouseTask/Source.cs" />
+        <option value="$PROJECT_DIR$/HouseTask/ConsumptionReportMaker.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="HouseTask (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="HouseTask (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="HouseTask" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/HouseTask/bin/Debug/netcoreapp2.0/HouseTask.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HouseTask" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/HouseTask/HouseTask.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="173fd354-8b4b-4a71-998d-4d52436db839" name="Default" comment="" />
+      <created>1525715623338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525715623338</updated>
+      <workItem from="1525715626556" duration="23798000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23798000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25349087" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3272933" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/HouseTask/House.cs</url>
+          <line>53</line>
+          <properties documentPath="$PROJECT_DIR$/HouseTask/House.cs">
+            <startOffsets>
+              <startOffset value="1950" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="1993" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/HouseTask/Program.cs</url>
+          <line>42</line>
+          <properties documentPath="$PROJECT_DIR$/HouseTask/Program.cs">
+            <startOffsets>
+              <startOffset value="1499" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="1575" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/HouseTask/IReportMaker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <marker date="1525725696347" expanded="true" signature="34:130" ph="{...}" />
+            <marker date="1525725696347" expanded="true" signature="70:128" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HouseTask/IActionable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="51" lean-forward="false" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+          <folding>
+            <marker date="1525722289334" expanded="true" signature="19:120" ph="{...}" />
+            <marker date="1525722289334" expanded="true" signature="54:118" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HouseTask/IReportable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding>
+            <marker date="1525807642983" expanded="true" signature="19:97" ph="{...}" />
+            <marker date="1525807642983" expanded="true" signature="54:95" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HouseTask/IChangeStateNotifier.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="55" lean-forward="false" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+          <folding>
+            <marker date="1525807998714" expanded="true" signature="34:171" ph="{...}" />
+            <marker date="1525807998714" expanded="true" signature="92:169" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HouseTask/SourceStateEnum.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <folding>
+            <marker date="1525801371487" expanded="true" signature="19:113" ph="{...}" />
+            <marker date="1525801371487" expanded="true" signature="53:111" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HouseTask/SourceType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding>
+            <marker date="1525722195134" expanded="true" signature="19:119" ph="{...}" />
+            <marker date="1525722195134" expanded="true" signature="48:117" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HouseTask/State.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding>
+            <marker date="1525800950918" expanded="true" signature="19:67" ph="{...}" />
+            <marker date="1525800950918" expanded="true" signature="53:65" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HouseTask/Stationare.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+          <folding>
+            <marker date="1525721046698" expanded="true" signature="19:307" ph="{...}" />
+            <marker date="1525721046698" expanded="true" signature="58:305" ph="{...}" />
+            <marker date="1525721046698" expanded="true" signature="128:216" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HouseTask/Window.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+          <folding>
+            <marker date="1525724389137" expanded="true" signature="19:177" ph="{...}" />
+            <marker date="1525724389137" expanded="true" signature="58:175" ph="{...}" />
+            <marker date="1525724389137" expanded="true" signature="149:169" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HouseTask/DeviceStateEnum.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <folding>
+            <marker date="1525801257885" expanded="true" signature="19:111" ph="{...}" />
+            <marker date="1525801257885" expanded="true" signature="53:109" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HouseTask/Room.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="39" column="20" lean-forward="false" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+          <folding>
+            <marker date="1525808444159" expanded="true" signature="54:1086" ph="{...}" />
+            <marker date="1525808444159" expanded="true" signature="91:1084" ph="{...}" />
+            <marker date="1525808444159" expanded="true" signature="435:533" ph="{...}" />
+            <marker date="1525808444159" expanded="true" signature="590:649" ph="{...}" />
+            <marker date="1525808444159" expanded="true" signature="711:773" ph="{...}" />
+            <marker date="1525808444159" expanded="true" signature="823:876" ph="{...}" />
+            <marker date="1525808444159" expanded="true" signature="931:987" ph="{...}" />
+            <marker date="1525808444159" expanded="true" signature="1029:1078" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HouseTask/DeviceState.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+          <folding>
+            <marker date="1525810144674" expanded="true" signature="19:224" ph="{...}" />
+            <marker date="1525810144674" expanded="true" signature="58:222" ph="{...}" />
+            <marker date="1525810144674" expanded="true" signature="116:167" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HouseTask/Device.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="76" lean-forward="false" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
+          <folding>
+            <marker date="1525810150586" expanded="true" signature="34:1367" ph="{...}" />
+            <marker date="1525810150586" expanded="true" signature="108:1365" ph="{...}" />
+            <marker date="1525810150586" expanded="true" signature="350:612" ph="{...}" />
+            <marker date="1525810150586" expanded="true" signature="671:930" ph="{...}" />
+            <marker date="1525810150586" expanded="true" signature="773:874" ph="{...}" />
+            <marker date="1525810150586" expanded="true" signature="1158:1286" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HouseTask/SourceState.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding>
+            <marker date="1525810093887" expanded="true" signature="19:224" ph="{...}" />
+            <marker date="1525810093887" expanded="true" signature="58:222" ph="{...}" />
+            <marker date="1525810093887" expanded="true" signature="116:167" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HouseTask/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="42" column="12" lean-forward="false" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+          <folding>
+            <marker date="1525810231986" expanded="true" signature="6:66" ph="..." />
+            <marker date="1525810231986" expanded="true" signature="87:1813" ph="{...}" />
+            <marker date="1525810231986" expanded="true" signature="107:1811" ph="{...}" />
+            <marker date="1525810231986" expanded="true" signature="153:1805" ph="{...}" />
+            <marker date="1525810231986" expanded="true" signature="703:895" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HouseTask/House.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="49" column="9" lean-forward="false" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+          <folding>
+            <marker date="1525808575070" expanded="true" signature="6:47" ph="..." />
+            <marker date="1525808575070" expanded="true" signature="68:2308" ph="{...}" />
+            <marker date="1525808575070" expanded="true" signature="93:2306" ph="{...}" />
+            <marker date="1525808575070" expanded="true" signature="408:1679" ph="{...}" />
+            <marker date="1525808575070" expanded="true" signature="560:1669" ph="{...}" />
+            <marker date="1525808575070" expanded="true" signature="640:1655" ph="{...}" />
+            <marker date="1525808575070" expanded="true" signature="729:1637" ph="{...}" />
+            <marker date="1525808575070" expanded="true" signature="808:1363" ph="{...}" />
+            <marker date="1525808575070" expanded="true" signature="1080:1337" ph="{...}" />
+            <marker date="1525808575070" expanded="true" signature="1392:1615" ph="{...}" />
+            <marker date="1525808575070" expanded="true" signature="1774:1828" ph="{...}" />
+            <marker date="1525808575070" expanded="true" signature="1927:2300" ph="{...}" />
+            <marker date="1525808575070" expanded="true" signature="1993:2182" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HouseTask/Source.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="67" lean-forward="false" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
+          <folding>
+            <marker date="1525810105504" expanded="true" signature="34:727" ph="{...}" />
+            <marker date="1525810105504" expanded="true" signature="95:725" ph="{...}" />
+            <marker date="1525810105504" expanded="true" signature="300:357" ph="{...}" />
+            <marker date="1525810105504" expanded="true" signature="463:591" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HouseTask/ConsumptionReportMaker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="49" column="59" lean-forward="false" selection-start-line="49" selection-start-column="59" selection-end-line="49" selection-end-column="59" />
+          <folding>
+            <marker date="1525811858888" expanded="false" signature="6:66" ph="..." />
+            <marker date="1525811858888" expanded="true" signature="87:2571" ph="{...}" />
+            <marker date="1525811858888" expanded="true" signature="144:2569" ph="{...}" />
+            <marker date="1525811858888" expanded="true" signature="371:439" ph="{...}" />
+            <marker date="1525811858888" expanded="true" signature="492:2563" ph="{...}" />
+            <marker date="1525811858888" expanded="true" signature="651:796" ph="{...}" />
+            <marker date="1525811858888" expanded="true" signature="856:2442" ph="{...}" />
+            <marker date="1525811858888" expanded="true" signature="928:2428" ph="{...}" />
+            <marker date="1525811858888" expanded="true" signature="1813:2307" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
